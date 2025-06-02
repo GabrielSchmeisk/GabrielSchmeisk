@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/GabrielSchmeisk/gitrepo/output/snake.svg" alt="Snake animation" />
-
 Snake.yml:
 name: Generate snake animation
 
@@ -24,7 +22,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: GabrielSchmeisk
           outputs: dist/snake.svg?palette=github-dark
 
 
