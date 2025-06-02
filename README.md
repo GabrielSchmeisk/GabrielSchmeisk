@@ -1,8 +1,9 @@
+
 ## 👋 Olá! Eu sou o Gabriel Schmeisk
 
 🎓 Estou começando minha jornada no mundo da programação, focando atualmente em **Python**.  
 💻 Cursando **Análise e Desenvolvimento de Sistemas**.  
-🚀 Apaixonado por tecnologia, curioso por natureza e sempre em busca de aprender algo novo!  
+🚀 Apaixonado por tecnologia, sempre em busca de aprender algo novo!  
 🎯 Meu objetivo é evoluir constantemente e compartilhar meus projetos e aprendizados por aqui.
 
 ---
@@ -27,28 +28,28 @@
 ### 🌐 Onde me encontrar
 
 <div>
-  <a href="mailto:gabrielschmeisk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-schmeisk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/bielschmeisk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabrielschmeisk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-schmeisk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/bielschmeisk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-- 💬 Discord: **bielzitoss**
+- 💬 Discord: <strong>bielzitoss</strong>
 
 ---
 
-### ✨ Sobre mim
+### ✨ Mais
 
-- 📘 Estudante dedicado e sempre em evolução.  
-- 📍 Baseado no Brasil.  
 - 📂 Aqui você vai encontrar pequenos projetos, exercícios e experiências com Python.  
 - 💬 Me mande uma mensagem se quiser trocar ideias sobre programação ou colaborações!
 
 ---
 
-### 🐍 Visitantes recentes
+<br clear="both">
 
-![snake gif](https://raw.githubusercontent.com/GabrielSchmeisk/GabrielSchmeisk/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/GabrielSchmeisk/GabrielSchmeisk/output/snake.svg" alt="Snake animation" />
 
 ---
 
-> *"A melhor maneira de aprender a programar é programando."*
+> *"Porque dele, por meio dele e para ele são todas as coisas. A ele seja a glória para sempre! Amém."*
+
+
