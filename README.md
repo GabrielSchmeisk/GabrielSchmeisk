@@ -47,7 +47,7 @@
 
 ### 🐍 Visitantes recentes
 
-![snake gif](https://github.com/GabrielSchmeisk/GabrielSchmeisk/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/GabrielSchmeisk/GabrielSchmeisk/output/github-contribution-grid-snake.svg)
 
 ---
 
